@@ -61,12 +61,31 @@ As part of the course structure, we worked with **Git and GitHub**, maintaining:
   - One per project phase (e.g., `part-1`, `part-2`, `part-3`, `main`)
   - Merging via **Pull Requests** with code reviews by teammates
 - All feature development was done via **feature branches**, reviewed before merging to `main`
-<br/>
-[Android application - java](https://github.com/ErezChamilevsky/ProjectAndroidVersion/tree/part3Main)
-[Web application - react](https://github.com/ErezChamilevsky/Project-Part1)
-[TCP Server](https://github.com/Izhakbd/CPP-TCP-Server/tree/main)
-[HTTPS Server](https://github.com/ErezChamilevsky/youtubeProjectServer)
-<br/>
+<p>Check out the different components of the project:</p>
+
+<ul>
+  <li>
+    <a href="https://github.com/ErezChamilevsky/ProjectAndroidVersion/tree/part3Main" target="_blank">
+      Android Application (Java)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/ErezChamilevsky/Project-Part1" target="_blank">
+      Web Application (React)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Izhakbd/CPP-TCP-Server/tree/main" target="_blank">
+      TCP Server (C++)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/ErezChamilevsky/youtubeProjectServer" target="_blank">
+      HTTPS Server (Node.js)
+    </a>
+  </li>
+</ul>
+
 > In addition, we also managed our project using **JIRA**, planned sprints, and tracked task ownership and 
 
 
