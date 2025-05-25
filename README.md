@@ -9,8 +9,8 @@ The solution includes:
 - A MongoDB database
   
 # Collaborators
-- [Erez Chamilevsky](https://github.com/ErezChamilevsky)
-- [Izhak Ben David](https://github.com/Izhakbd)
+- [Erez Chamilevsky](https://github.com/ErezChamilevsky) - erez284@gmail.com
+- [Izhak Ben David](https://github.com/Izhakbd) - izhak573@gmail.com 
 
 ## 💻 Frontend
 
@@ -79,4 +79,14 @@ https://github.com/user-attachments/assets/0d9016c9-4730-4a2e-85c6-e16c8eacd600
 
 https://github.com/user-attachments/assets/d8484157-8fcf-42a3-9fb2-7183a4058617
 
+## Final Notes
 
+This project simulated the full software development lifecycle:
+- Requirements analysis
+- UI/UX design
+- Agile teamwork with sprints
+- Git-based collaboration with pull requests and reviews
+- Cross-platform development (Web + Android)
+- Integration of modern technologies across frontend and backend
+
+We're proud of this system and the collaboration that brought it to life.
